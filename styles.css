@@ -1145,7 +1145,8 @@ body.modal-open{
 }
 
 .contact-link:hover{
-  opacity: .72;
+  color: var(--card);
+  opacity: .9;
 }
 
 
